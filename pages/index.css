@@ -1,2 +1,6 @@
-/* Import Normalize CSS File */
+/* Normalize - Vendor CSS File */
 @import url(../vendor/normalize.css);
+/* Page CSS File - contains the CSS Styles for the page */
+@import url(../blocks/page.css);
+/* Fonts CSS File - contains the fonts used in this app */
+@import url(../vendor/fonts.css);
