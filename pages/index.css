@@ -1,6 +1,16 @@
 /* Normalize - Vendor CSS File */
 @import url(../vendor/normalize.css);
-/* Page CSS File - contains the CSS Styles for the page */
-@import url(../blocks/page.css);
 /* Fonts CSS File - contains the fonts used in this app */
 @import url(../vendor/fonts.css);
+/* Page CSS File - contains the CSS Styles for the page */
+@import url(../blocks/page.css);
+/* Header CSS File - contains the css for the Header in the app */
+@import url(../blocks/header.css);
+/* Content CSS File - contains the css for the content section  */
+@import url(../blocks/content.css);
+/* Profile CSS File - contains the css for the profile section */
+@import url(../blocks/profile.css);
+/* Cards CSS File - contains the css for the cards section */
+@import url(../blocks/cards.css);
+/* Card CSS File - contains the css for the individual cards */
+@import url(../blocks/card.css);
