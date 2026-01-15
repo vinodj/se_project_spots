@@ -11,6 +11,8 @@
 **Description**
 
 Welcome to Spots!! This is a social media application where users can view and like images and add their own social media posts!!!
+This project uses HTML, Javascript, and CSS to allow users to add their own posts and upload and like images.
+The project is built in the BEM methodology with CSS blocks for each of the content sections of the app.
 
 **Figma**
 
