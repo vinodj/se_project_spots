@@ -25,3 +25,4 @@ The project is built in the BEM methodology with CSS blocks for each of the cont
 https://vinodj.github.io/se_project_spots/
 
 **Project Pitch**
+https://drive.google.com/file/d/1zzfREavUtti1Lb9Mjmi8aLXPgoeCtumS/view?usp=sharing
