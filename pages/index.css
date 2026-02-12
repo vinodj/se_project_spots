@@ -14,3 +14,5 @@
 @import url(../blocks/cards.css);
 /* Card CSS File - contains the css for the individual cards */
 @import url(../blocks/card.css);
+/* Modal CSS File - contains the css for the modal popup */
+@import url(../blocks/modal.css);
